@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30669\\Desktop\\\u4E94\u5B50\u6D88\u6D88\u4E50\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599444B6-9834-42CA-94BD-9C80202FEE47}|\u4E94\u5B50\u6D88\u6D88\u4E50.vcxproj|C:\\Users\\30669\\Desktop\\\u4E94\u5B50\u6D88\u6D88\u4E50\\Wuzi\u6539.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{599444B6-9834-42CA-94BD-9C80202FEE47}|\u4E94\u5B50\u6D88\u6D88\u4E50.vcxproj|solutionrelative:Wuzi\u6539.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wuzi\u6539.cpp",
+              "DocumentMoniker": "C:\\Users\\30669\\Desktop\\\u4E94\u5B50\u6D88\u6D88\u4E50\\Wuzi\u6539.cpp",
+              "RelativeDocumentMoniker": "Wuzi\u6539.cpp",
+              "ToolTip": "C:\\Users\\30669\\Desktop\\\u4E94\u5B50\u6D88\u6D88\u4E50\\Wuzi\u6539.cpp",
+              "RelativeToolTip": "Wuzi\u6539.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T13:01:59.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

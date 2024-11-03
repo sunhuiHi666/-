@@ -1,0 +1,3 @@
+﻿  Wuzi改.cpp
+C:\Users\30669\Desktop\五子消消乐\Wuzi改.cpp(772,1): warning C4715: “playMusic”: 不是所有的控件路径都返回值
+  五子消消乐.vcxproj -> C:\Users\30669\Desktop\五子消消乐\x64\Debug\五子消消乐.exe
